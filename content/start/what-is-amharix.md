@@ -13,7 +13,7 @@ available in October 2017. Further courses will be added continuously.
 
 The first complete series, Series #1 - Meeting People, will comprise the following courses:
 
-Series #1, Meeting People
+#### Series #1, Meeting People
 
 - AmhariX 1, Greetings & Wishes
 - AmhariX 2, Introducing Family Members & Friends
@@ -24,7 +24,7 @@ Series #1, Meeting People
 
 Further courses are under preparation featuring the following titles:
 
-Series #2, Eating Together
+#### Series #2, Eating Together
 
 - AmhariX 7, Food & Beverages
 - AmhariX 8, Meeting for Breakfast
@@ -33,7 +33,7 @@ Series #2, Eating Together
 - AmhariX 11, Meeting for Dinner
 - AmhariX 12, Peparing a Meal Together
 
-Series #3, Getting Around
+#### Series #3, Getting Around
 
 - AmhariX 13, Arriving in Ethiopia
 - AmhariX 14, At the Hotel

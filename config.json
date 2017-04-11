@@ -1,17 +1,15 @@
 {
 	"baseurl": "http://amharix.com/",
 	"languageCode": "en-us",
-	"title": "Amharix",
+	"title": "AmhariX",
 	"theme": "hugo-theme-html5",
 	"MetaDataFormat": "toml",
 	"params": {
-		"Description": "",
 		"Logotype": "img/logotype.svg",
+		"Description": "",
 		"CSS": [
-			"css/text.css",
-			"css/color.css",
 			"css/layout.css",
-			"css/form.css"
+			"css/header.css"
 		],
 		"ListMode": "header",
 		"FrontPageMode": "full",
