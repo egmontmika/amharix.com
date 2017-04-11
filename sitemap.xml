@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://amharix.com/start/get-started/</loc>
+    <lastmod>2017-04-11T11:46:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://amharix.com/start/what-is/</loc>
+    <lastmod>2017-04-11T11:46:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://amharix.com/start/is-this-you/</loc>
+    <lastmod>2017-04-11T11:46:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://amharix.com/start/welcome/</loc>
+    <lastmod>2017-04-11T11:46:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://amharix.com/</loc>
+    <lastmod>2017-04-11T11:46:49+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://amharix.com/start/</loc>
+    <lastmod>2017-04-11T11:46:49+02:00</lastmod>
     <priority>0</priority>
   </url>
   
