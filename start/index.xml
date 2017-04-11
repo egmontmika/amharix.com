@@ -1,48 +1,125 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Starts on Amharix</title>
+    <title>Starts on AmhariX</title>
     <link>http://amharix.com/start/index.xml</link>
-    <description>Recent content in Starts on Amharix</description>
+    <description>Recent content in Starts on AmhariX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2017 11:46:49 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://amharix.com/start/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>get started</title>
-      <link>http://amharix.com/start/get-started/</link>
-      <pubDate>Tue, 11 Apr 2017 11:46:49 +0200</pubDate>
+      <title>AmhariX</title>
+      <link>http://amharix.com/start/amharix/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://amharix.com/start/get-started/</guid>
-      <description></description>
+      <guid>http://amharix.com/start/amharix/</guid>
+      <description>
+
+&lt;h4 id=&#34;welcome-to&#34;&gt;Welcome to&lt;/h4&gt;
+
+&lt;h1 id=&#34;amharic-phrase-br-grammar-training&#34;&gt;Amharic Phrase &amp;amp;&lt;br&gt; Grammar Training&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;”There’s never been a better time to start learning and practising Amharic. These training materials will enable you to do it successfully.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;by Egmont Mika&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>what is</title>
-      <link>http://amharix.com/start/what-is/</link>
-      <pubDate>Tue, 11 Apr 2017 11:46:38 +0200</pubDate>
-      
-      <guid>http://amharix.com/start/what-is/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>is this you</title>
+      <title>Is this You?</title>
       <link>http://amharix.com/start/is-this-you/</link>
-      <pubDate>Tue, 11 Apr 2017 11:46:28 +0200</pubDate>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://amharix.com/start/is-this-you/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;You are already familiar with the Amharic script, but you  want to be able to read, write and speak Amharic.&lt;/li&gt;
+&lt;li&gt;You want to learn more Amharic words and phrases and  be able to recall them spontaneously in a conversation.&lt;/li&gt;
+&lt;li&gt;You want to understand the grammatical structure and be able to alter words and phrases in a grammatically correct way.&lt;/li&gt;
+&lt;li&gt;Your goal is to master Amharic in every day conversation  and to commmunicate fluently.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Is this what you want?
+Then AmhariX - Amharic Phrase &amp;amp; Grammar Training is for you.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>welcome</title>
-      <link>http://amharix.com/start/welcome/</link>
-      <pubDate>Tue, 11 Apr 2017 11:46:14 +0200</pubDate>
+      <title>What is AmhariX?</title>
+      <link>http://amharix.com/start/what-is-amharix/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://amharix.com/start/welcome/</guid>
-      <description></description>
+      <guid>http://amharix.com/start/what-is-amharix/</guid>
+      <description>
+
+&lt;p&gt;AmhariX is an Amharic language training programme under development and under continuous improvement. It is free of charge.&lt;/p&gt;
+
+&lt;p&gt;So far, the first course, AmhariX 1 - Greetings &amp;amp; Wishes, is available.&lt;/p&gt;
+
+&lt;p&gt;The second course, AmhariX 2 - Introducing Family Members &amp;amp; Friends, will be
+available in October 2017. Further courses will be added continuously.&lt;/p&gt;
+
+&lt;p&gt;The first complete series, Series #1 - Meeting People, will comprise the following courses:&lt;/p&gt;
+
+&lt;h4 id=&#34;series-1-meeting-people&#34;&gt;Series #1, Meeting People&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AmhariX 1, Greetings &amp;amp; Wishes&lt;/li&gt;
+&lt;li&gt;AmhariX 2, Introducing Family Members &amp;amp; Friends&lt;/li&gt;
+&lt;li&gt;AmhariX 3, Work, Professions &amp;amp; Occupations&lt;/li&gt;
+&lt;li&gt;AmhariX 4, Nationalities, Languages &amp;amp; Language Learning&lt;/li&gt;
+&lt;li&gt;AmhariX 5, Making Appointments, Time &amp;amp; Time Expressions&lt;/li&gt;
+&lt;li&gt;AmhariX 6, First Time Meetings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further courses are under preparation featuring the following titles:&lt;/p&gt;
+
+&lt;h4 id=&#34;series-2-eating-together&#34;&gt;Series #2, Eating Together&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AmhariX 7, Food &amp;amp; Beverages&lt;/li&gt;
+&lt;li&gt;AmhariX 8, Meeting for Breakfast&lt;/li&gt;
+&lt;li&gt;AmhariX 9, Meeting for Coffee&lt;/li&gt;
+&lt;li&gt;AmhariX 10, Meeting for Lunch&lt;/li&gt;
+&lt;li&gt;AmhariX 11, Meeting for Dinner&lt;/li&gt;
+&lt;li&gt;AmhariX 12, Peparing a Meal Together&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;series-3-getting-around&#34;&gt;Series #3, Getting Around&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AmhariX 13, Arriving in Ethiopia&lt;/li&gt;
+&lt;li&gt;AmhariX 14, At the Hotel&lt;/li&gt;
+&lt;li&gt;AmhariX 15, A Telephone Call&lt;/li&gt;
+&lt;li&gt;AmhariX 16, At the Market - Items, Quantities &amp;amp; Prices&lt;/li&gt;
+&lt;li&gt;AmhariX 17, In the Hospital - The Human Body &amp;amp; Medical Care&lt;/li&gt;
+&lt;li&gt;AmhariX 18, Travelling Across the Country&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Get Started</title>
+      <link>http://amharix.com/start/how-to-get-started/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://amharix.com/start/how-to-get-started/</guid>
+      <description>&lt;p&gt;You may get started right away by signing up and loading down
+the first course, AmhariX 1 - Greetings &amp;amp; Wishes.&lt;/p&gt;
+
+&lt;p&gt;This will give you access to the following training materials:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;8 Amharic dialogues with 34 grammatical alternatives&lt;/li&gt;
+&lt;li&gt;10 Tables with grammar paradigms including approx.100 grammar forms&lt;/li&gt;
+&lt;li&gt;12 Tables including 188 structure phrases&lt;/li&gt;
+&lt;li&gt;Glossary including 40 items&lt;/li&gt;
+&lt;li&gt;Audio Language Training with 5 hours of recordnings&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
