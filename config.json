@@ -3,7 +3,7 @@
 	"languageCode": "en-us",
 	"title": "Amharix",
 	"theme": "hugo-theme-html5",
-	"MetaDataFormat": "json",
+	"MetaDataFormat": "toml",
 	"params": {
 		"Description": "",
 		"Logotype": "img/logotype.svg",
@@ -13,7 +13,7 @@
 			"css/layout.css",
 			"css/form.css"
 		],
-		"ListMode": "title",
+		"ListMode": "header",
 		"FrontPageMode": "full",
 		"FrontPageSection": "start",
 		"NavigationInHeader": true,

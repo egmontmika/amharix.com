@@ -1,9 +1,5 @@
-{
-	"date": "2017-04-11T11:46:14+02:00",
-	"menu": {
-			"main": {
-				"weight": 10
-			}
-	},
-	"title": "welcome"
-}
++++
+date = 2017-04-11T00:00:00Z
+title = "Welcome"
+weight = 10
++++

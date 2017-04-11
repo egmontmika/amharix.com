@@ -1,10 +1,6 @@
-{
-	"date": "2017-04-11T11:46:38+02:00",
-	"menu": {
-			"main": {
-				"weight": 30
-			}
-	},
-	"title": "what is"
-}
++++
+date = 2017-04-11T00:00:00Z
+title = "What is AmhariX?"
+weight = 30
++++
 
