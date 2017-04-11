@@ -1,0 +1,25 @@
+{
+	"baseurl": "http://amharix.com/",
+	"languageCode": "en-us",
+	"title": "Amharix",
+	"theme": "hugo-theme-html5",
+	"MetaDataFormat": "json",
+	"params": {
+		"Description": "",
+		"Logotype": "img/logotype.svg",
+		"CSS": [
+			"css/text.css",
+			"css/color.css",
+			"css/layout.css",
+			"css/form.css"
+		],
+		"ListMode": "title",
+		"FrontPageMode": "full",
+		"FrontPageSection": "start",
+		"NavigationInHeader": true,
+		"Prefix": [
+			"og: http://opy.me/ns#"
+		]
+	},
+	"googleAnalytics": "UA-46771981-3"
+}
