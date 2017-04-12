@@ -5,10 +5,11 @@ weight = 10
 mode = "body"
 style = "text-align: center; background: none;"
 +++
-#### Welcome to
+##### Welcome to
+# AmhariX
 
-# Amharic Phrase &<br> Grammar Training
+# Amharic Phrase & Grammar Training
 
-> ”There’s never been a better time to start learning and practising Amharic. These training materials will enable you to do it successfully.”
+> ”There has never been a better time to start learning Amharic. And these materials will enable you to succeed and reach your goal.”
 
 by Egmont Mika

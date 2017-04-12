@@ -4,41 +4,46 @@ title = "What is AmhariX?"
 weight = 30
 +++
 
-AmhariX is an Amharic language training programme under development and under continuous improvement. It is free of charge.
+AmhariX is a learning and training programme for the Amharic language under development.
 
-So far, the first course, AmhariX 1 - Greetings & Wishes, is available.
+It is free of charge.
 
-The second course, AmhariX 2 - Introducing Family Members & Friends, will be
-available in October 2017. Further courses will be added continuously.
+When completed, the entire project will comprise three series with in total 18 courses.
 
-The first complete series, Series #1 - Meeting People, will comprise the following courses:
+Each course will contain dialogues, grammar paradigms, structure sentences, glossary and audio recordings for oral training.
+
+Moreover, all AmhariX courses will be linked to Memrise, a digital tool for effective language learning.
+
+Here are the courses:
 
 #### Series #1, Meeting People
 
 - AmhariX 1, Greetings & Wishes
-- AmhariX 2, Introducing Family Members & Friends
-- AmhariX 3, Work, Professions & Occupations
-- AmhariX 4, Nationalities, Languages & Language Learning
-- AmhariX 5, Making Appointments, Time & Time Expressions
-- AmhariX 6, First Time Meetings
 
-Further courses are under preparation featuring the following titles:
+- AmhariX 2, Introducing Family Members & Friends
+- AmhariX 3, At Work - Professions & Occupations
+- AmhariX 4, Nations, Nationalities & Languages
+- AmhariX 5, Language Learning & Understanding
+- AmhariX 6, First Time Meetings
 
 #### Series #2, Eating Together
 
-- AmhariX 7, Food & Beverages
+- AmhariX 7, Groceries, Quantities, Prices
+
 - AmhariX 8, Meeting for Breakfast
-- AmhariX 9, Meeting for Coffee
-- AmhariX 10, Meeting for Lunch
+- AmhariX 9, Meeting for Lunch
+- AmhariX 10, Meeting for Coffee
 - AmhariX 11, Meeting for Dinner
 - AmhariX 12, Peparing a Meal Together
 
 #### Series #3, Getting Around
 
 - AmhariX 13, Arriving in Ethiopia
-- AmhariX 14, At the Hotel
-- AmhariX 15, A Telephone Call
-- AmhariX 16, At the Market - Items, Quantities & Prices
-- AmhariX 17, In the Hospital - The Human Body & Medical Care
-- AmhariX 18, Travelling Across the Country
+- AmhariX 14, At the hotel
+
+- AmhariX 15, Appointments, time & time expressions
+- AmhariX 16, Sightseeing
+- AmhariX 17, Shopping, money & prices
+- AmhariX 18, In the hospital
+- AmhariX 18, Travelling across the country
 
