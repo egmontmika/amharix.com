@@ -12,3 +12,5 @@ weight = 20
 Is this what you want? -
 
 #### Then AmhariX is for you.
+
+<script type="text/javascript" src="//static.mailerlite.com/data/webforms/378200/u2j8e8.js?v1"></script>

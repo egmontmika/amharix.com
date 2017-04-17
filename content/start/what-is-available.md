@@ -12,3 +12,5 @@ It contains the following training materials:
 - 12 Tables including 188 structure phrases
 - Glossary including 40 items
 - Audio Language Training with 5 hours of recordnings
+
+<script type="text/javascript" src="//static.mailerlite.com/data/webforms/378200/u2j8e8.js?v1"></script>

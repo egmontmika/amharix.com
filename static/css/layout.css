@@ -17,3 +17,9 @@ html > body > main > article {
 	padding: 2em;
 	max-width: 30em;
 }
+html.home form > div {
+	text-align: right;
+}
+html.home form > div > button {
+	display: inline;
+}

@@ -47,3 +47,4 @@ Here are the courses:
 - AmhariX 18, In the hospital
 - AmhariX 18, Travelling across the country
 
+<script type="text/javascript" src="//static.mailerlite.com/data/webforms/378200/u2j8e8.js?v1"></script>
