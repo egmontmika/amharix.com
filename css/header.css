@@ -1,7 +1,6 @@
-html > body > header > h1 > a {
+html > body > header > h1 > a > img {
 	position: fixed;
-	top: -4vh;
-	left: -2vh;
-	height: 100vh;
-	max-width: 10%;
+	top: -2vh;
+	left: -1vh;
+	height: 104vh;
 }
