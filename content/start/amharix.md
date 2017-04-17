@@ -9,6 +9,6 @@ class = "first"
 # AmhariX
 ## Amharic Phrase & Grammar Training
 
-> ”There has never been a better time to start learning Amharic. And these materials will enable you to succeed and reach your goal.”
+> ”There has never been a better time to start learning Amharic, and these materials will enable you to succeed."
 
-by Egmont Mika
+By Egmont Mika
