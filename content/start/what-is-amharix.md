@@ -8,7 +8,7 @@ AmhariX is a learning and training programme for the Amharic language under deve
 
 It is free of charge.
 
-When completed, the entire project will comprise three series with in total 18 courses.
+When completed, the entire project will comprise three series with 18 courses, in total.
 
 Each course will contain dialogues, grammar paradigms, structure sentences, glossary and audio recordings for oral training.
 
