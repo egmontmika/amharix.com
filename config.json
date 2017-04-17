@@ -9,7 +9,8 @@
 		"Description": "",
 		"CSS": [
 			"css/layout.css",
-			"css/header.css"
+			"css/header.css",
+			"css/text.css"
 		],
 		"ListMode": "header",
 		"FrontPageMode": "full",
