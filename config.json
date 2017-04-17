@@ -9,6 +9,7 @@
 		"Description": "",
 		"CSS": [
 			"css/layout.css",
+			"css/layout-wide.css",
 			"css/header.css",
 			"css/text.css"
 		],

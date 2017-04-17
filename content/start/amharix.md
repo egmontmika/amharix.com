@@ -3,7 +3,7 @@ date = 2017-04-11T00:00:00Z
 title = "AmhariX"
 weight = 10
 mode = "body"
-style = "text-align: center; background: none;"
+style = "text-align: center; background: none; font-size: 1.6em;"
 +++
 ##### Welcome to
 # AmhariX

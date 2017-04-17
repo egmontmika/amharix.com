@@ -1,6 +1,21 @@
+html > body > header > h1 {
+	margin: 0;
+	width: 100vw;
+	overflow: hidden;
+}
+
 html > body > header > h1 > a > img {
+	position: relative;
+	left: -2vw;
+	top: -1vw;
+	width: 104vw;
+}
+@media screen and (min-width: 30em) {
+	html > body > header > h1 > a > img {
 	position: fixed;
-	top: -2vh;
-	left: -1vh;
-	height: 104vh;
+	left: -2vh;
+	top: -1vh;
+	width: 104vh;
+	transform: translate(-50%, -0%) rotate(-90deg) translate(calc(-50% + 10%), 50%);
+}
 }

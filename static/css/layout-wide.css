@@ -1,0 +1,13 @@
+@media screen and (min-width: 30em) {
+html > body > main {
+	margin-left: 20vh;
+}
+html > body > main > article {
+	margin: 2em;
+}
+}
+@media screen and (min-width: 40em) {
+html {
+	font-size: 1.6em;
+}
+}
