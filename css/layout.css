@@ -11,6 +11,19 @@ html > body > main > article {
 	margin: 1em 0;
 	max-width: 30em;
 }
+/* only for article with class first */
+html > body > main > article.first {
+	background: none;
+	text-align: center;
+}
+html > body > main > article.first > main {
+	font-size: 1.0em;
+	color: #8c3d09;
+}
+html > body > main > article.first > main h1 {
+	font-size: 3em;
+}
+/* register button */
 html.home form > div {
 	text-align: right;
 }
