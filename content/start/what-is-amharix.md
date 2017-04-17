@@ -19,7 +19,6 @@ Here are the courses:
 #### Series #1, Meeting People
 
 - AmhariX 1, Greetings & Wishes
-
 - AmhariX 2, Introducing Family Members & Friends
 - AmhariX 3, At Work - Professions & Occupations
 - AmhariX 4, Nations, Nationalities & Languages
@@ -29,7 +28,6 @@ Here are the courses:
 #### Series #2, Eating Together
 
 - AmhariX 7, Groceries, Quantities, Prices
-
 - AmhariX 8, Meeting for Breakfast
 - AmhariX 9, Meeting for Lunch
 - AmhariX 10, Meeting for Coffee
@@ -40,7 +38,6 @@ Here are the courses:
 
 - AmhariX 13, Arriving in Ethiopia
 - AmhariX 14, At the hotel
-
 - AmhariX 15, Appointments, time & time expressions
 - AmhariX 16, Sightseeing
 - AmhariX 17, Shopping, money & prices
