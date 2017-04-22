@@ -4,7 +4,7 @@ title = "Is This You?"
 weight = 20
 +++
 
-- You are familiar with the Amharic script, but you do not read, write and speak Amharic fluently.
+- You are familiar with the Amharic script, but you do not read, write and speak Amharic fluently. Not yet.
 - You want to learn more Amharic words and phrases and  be able to recall them spontaneously in a conversation.
 - You want to be able to alter words and phrases in a grammatically correct way.
 - You want to speak fluently with good Amharic pronunciation.
