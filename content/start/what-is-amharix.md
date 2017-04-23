@@ -34,12 +34,11 @@ These are the planned courses:
 
 #### Series #3, Getting Around
 
-- AmhariX 13, Arriving in Ethiopia
-- AmhariX 14, At the Hotel
-- AmhariX 15, Appointments/Times & Time expressions
-- AmhariX 16, Sightseeing
-- AmhariX 17, Shopping/Money & Prices
-- AmhariX 18, The Human Body/In the Hospital
+- AmhariX 13, Arriving / At the Hotel
+- AmhariX 14, Appointments/Times & Time expressions
+- AmhariX 15, Sightseeing
+- AmhariX 16, Shopping/Money & Prices
+- AmhariX 17, The Human Body/In the Hospital
 - AmhariX 18, Travelling
 
 <script type="text/javascript" src="//static.mailerlite.com/data/webforms/378200/u2j8e8.js?v1"></script>
