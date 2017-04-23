@@ -4,17 +4,15 @@ title = "What is AmhariX?"
 weight = 30
 +++
 
-AmhariX is a learning and training programme for the Amharic language. This programme is under constant development.
-
-It is free of charge.
+The AmhariX project is developing a learning and training programme for the Amharic language. As long as under development, it is free of charge.
 
 When completed, the entire project will comprise three series with 18 courses, in total.
 
-Each course contains dialogues, grammar paradigms, structure sentences, glossary and audio recordings for oral training.
+Each course will contain dialogues, grammar paradigms, structure sentences, glossary and audio recordings for oral training.
 
 Moreover, all AmhariX courses are linked to Memrise, a digital tool for effective language learning.
 
-These are the courses:
+These are the planned courses:
 
 #### Series #1, Meeting People
 
