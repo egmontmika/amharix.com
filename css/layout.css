@@ -7,7 +7,7 @@ html > body {
 }
 html > body > main > article {
 	background: rgba(255, 255, 255, 0.7);
-	padding: 1em;
+	padding: 1.0em;
 	margin: 1em 0;
 	max-width: 30em;
 }
@@ -17,11 +17,11 @@ html > body > main > article.first {
 	text-align: center;
 }
 html > body > main > article.first > main {
-	font-size: 1.2em;
+	font-size: 1.6em;
 	color: #8c3d09;
 }
 html > body > main > article.first > main h1 {
-	font-size: 3em;
+	font-size: 3.0em;
 }
 /* register button */
 html.home form > div {
